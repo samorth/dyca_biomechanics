@@ -1,6 +1,6 @@
 # Dyca Biomechanics
 
-Accompanying repository for the work “Applying Dynamical Component Analysis to Gait Data - A Methodological Guide”.
+Accompanying repository for the work “Applying Dynamical Component Analysis to Marker-Based Gait Data - A Methodological Guide”.
 
 The code base is listed above.
 
